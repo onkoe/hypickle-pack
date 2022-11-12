@@ -1,0 +1,9 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "40f2791ae84e097cc964b740cbd974e78296a36aa1490dcb76dcc004bf865ac8"
+
+[[files]]
+file = "README.md"
+hash = "4c11be050b76672611528817270cc9fed19827eeece0f8178be3a79cd9917546"
